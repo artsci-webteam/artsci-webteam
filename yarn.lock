@@ -8983,9 +8983,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"uids@workspace:.":
+"research@workspace:.":
   version: 0.0.0-use.local
-  resolution: "uids@workspace:."
+  resolution: "research@workspace:."
   dependencies:
     "@storybook/addon-essentials": ^7.5.2
     "@storybook/addon-interactions": ^7.5.2
